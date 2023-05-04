@@ -11,7 +11,8 @@
 -Il comando che ci permette di accedere alla libreria è: ![image](https://user-images.githubusercontent.com/116791046/235086034-7a1a22e7-bd19-410e-b982-b920ccae6775.png)\
 -L'istruzione per scegliere specificatamente cosa voglio prendere del database è: ![image](https://user-images.githubusercontent.com/116791046/235086564-eab047f7-167b-44e7-95af-f87cd10b714a.png)\
 -Il comando che ci permette di vedere il numero di record dentro a una certa tabella è: ![image](https://user-images.githubusercontent.com/116791046/235087243-faf65896-e8b7-4809-8a06-50e08bf9758e.png)\
--Dobbiamo anche creare una classe con dentro dei metodi
-
+-Dobbiamo anche creare una classe con dentro dei metodi\
+![image](https://user-images.githubusercontent.com/116791046/236140245-b9ddbe3f-6c10-4e5a-ba05-1ed356b0590d.png)\
+-Per ora il codice finisce così in caso di nuovi aggiornamenti verranno caricati nuovamente
 
 
