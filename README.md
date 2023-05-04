@@ -16,8 +16,12 @@
 ###
     var tblArtist = cn1.Query<Artist>("select * from artists");
 ###
-![image](https://user-images.githubusercontent.com/116791046/235086564-eab047f7-167b-44e7-95af-f87cd10b714a.png)\
--Il comando che ci permette di vedere il numero di record dentro a una certa tabella è: ![image](https://user-images.githubusercontent.com/116791046/235087243-faf65896-e8b7-4809-8a06-50e08bf9758e.png)\
+-Il comando che ci permette di vedere il numero di record dentro a una certa tabella è: 
+###
+    Console.WriteLine($"In questa tabella ci sono {tblArtist.Count} record" );
+###
+
+![image](https://user-images.githubusercontent.com/116791046/235087243-faf65896-e8b7-4809-8a06-50e08bf9758e.png)\
 -Dobbiamo anche creare una classe che noi abbiamo nominato Artist\
 ![image](https://user-images.githubusercontent.com/116791046/236140245-b9ddbe3f-6c10-4e5a-ba05-1ed356b0590d.png)\
 -Per ora il codice finisce così in caso di nuovi aggiornamenti verranno caricati nuovamente
