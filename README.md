@@ -2,7 +2,7 @@
 -Per prima cosa dobbiamo creare una cartella con il nome giusto\
 -Poi dobbiamo aprire la cartella su visual studio code\
 -Nel terminale scrivere 'dotnet new console'\
--Poi dobbiamo cercare su internet 'chinook.db' e scaricare il file per poi inserirlo nella cartella dove dobbiamo lavorare\
+-Cliccare sul link che segue https://www.sqlitetutorial.net/sqlite-sample-database/ e scaricare il file per poi inserirlo nella cartella dove dobbiamo lavorare\
 ![image](https://user-images.githubusercontent.com/116791046/235087869-6c102804-fa96-4d1c-939b-7b4fe0c36987.png)\
 -Poi possiamo iniziare a scrivere il codice\
 -Prima cosa ricordarsi di aggiungere 'using SQLite'\
