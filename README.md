@@ -30,7 +30,6 @@
     }
 ###
 
-![image](https://user-images.githubusercontent.com/116791046/236140245-b9ddbe3f-6c10-4e5a-ba05-1ed356b0590d.png)\
 -Per ora il codice finisce così in caso di nuovi aggiornamenti verranno caricati nuovamente
 
 
